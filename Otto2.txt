@@ -14,9 +14,6 @@ otto hofft
 otto klopft
 otto hopft
 otto
-<<<<<<< HEAD
 otto rotzt
-=======
-otto rotzt
-SEHR DOLL
->>>>>>> 592bc882025b770936de1795013b339a0860acbf
+
+MEGA DOLL
